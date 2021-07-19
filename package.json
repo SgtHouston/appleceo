@@ -1,0 +1,20 @@
+{
+  "name": "appleceo",
+  "version": "1.0.0",
+  "description": "Apple CEO App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgtHouston/appleceo.git"
+  },
+  "author": "Chris Houston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SgtHouston/appleceo/issues"
+  },
+  "homepage": "https://github.com/SgtHouston/appleceo#readme"
+}
